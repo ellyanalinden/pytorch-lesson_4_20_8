@@ -1,1 +1,1 @@
-# pytorch-lesson_4_20_8
+#Secure AI Exercise 7 & 8
